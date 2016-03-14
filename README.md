@@ -1,20 +1,19 @@
 # JS Libraries
 ## Intro
 
-A JavaScript library is prewritten JavaScript code that allows for easy integration to streamline your own code base
+A JavaScript library is prewritten JavaScript code that allows for easy integration to streamline your own code base. 
 
-There are many JavaScript libraries designed for different purposes. Jasmine is the library we use for writing tests. D3.js is a library for data visualization, Bootstrap has a JavaScript library for adding animations and effects to our sites, Node.js is a library for writing server side JavaScript.
+There are many JavaScript libraries designed for different purposes. Jasmine is the library we use for writing tests. D3.js is a library for data visualization. Bootstrap has a JavaScript library for adding animations and effects to our sites. Node.js is a library for writing server side JavaScript.
 
 One of the most widely used JavaScript libraries is **jQuery**.
 
 ##Objectives
-After this lesson you will understand
-*Why we use jQuery
-*How to link to external libraries like jQuery
+* Explain why we use jQuery
+* Link to external libraries such as jQuery
 
 ##jQuery
 
-jQuery provides us with convenient methods to make our jobs as developers much easier - we can write significantly fewer lines of code and still achieve the same effect.
+jQuery provides us with convenient methods to make our jobs as developers much easier - we can write significantly fewer lines of code and still achieve the same effect. This is what we mean by streamlining our code base. 
 
 For example, when we were looking at Twitter and replacing names, we used jQuery:
 ```
