@@ -7,11 +7,11 @@ There are many JavaScript libraries designed for different purposes. Jasmine is 
 
 One of the most widely used JavaScript libraries is **jQuery**.
 
-##Objectives
+## Objectives
 * Explain why we use jQuery
 * Link to external libraries such as jQuery
 
-##jQuery
+## jQuery
 
 jQuery provides us with convenient methods to make our jobs as developers much easier - we can write significantly fewer lines of code and still achieve the same effect. This is what we mean by streamlining our code base. 
 
